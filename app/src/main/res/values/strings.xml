@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="title">Reservations at Kirbo</string>
+    <string name="context">Please fill out the blank to book a reservation</string>
+    <string name="sit_location">Smoke area</string>
+</resources>
